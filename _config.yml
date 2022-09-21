@@ -8,20 +8,7 @@ prefer_datetime_locale:
 
 timezone: Africa/Addis_Ababa
 
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
-
-<!-- title:
-
-    title - Your site's title (e.g., Ben's Awesome Site, The GitHub Blog, etc.), used as part of the title tag like Home | Ben's Awesome Site.
-
-    tagline - A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
-
-    description - A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-
-    url -
---->
-title: A Scuba Blog - 0xecho
+title: A Scuba Blog by 0xecho
 
 tagline: A collection of (seeminglly) random thoughts, ideas, experiences, and what not...
 
