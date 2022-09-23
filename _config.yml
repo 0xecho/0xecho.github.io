@@ -1,6 +1,6 @@
 theme: jekyll-theme-chirpy
 
-baseurl: '/0xecho.github.io'
+baseurl: '/'
 
 lang: en
 
@@ -15,7 +15,7 @@ tagline: A collection of (seeminglly) random thoughts, ideas, experiences, and w
 description: >-
   An (un)creative attempt to document my journey as a newbie software engineer.
 
-url: 'https://0xecho.github.io'
+url: 'https://blog.echo.et'
 
 github:
   username: 0xecho
