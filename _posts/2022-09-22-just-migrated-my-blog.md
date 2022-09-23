@@ -2,7 +2,13 @@
 title: Just Migrated my Blog 
 date: 2022-09-22 08:00:00 +0300 
 categories: [Blog] 
-tags: [blog, jekyll, github, markdown, github-pages] 
+tags: [blog, jekyll, github, markdown, github-pages]
+image:
+  path: /assets/2022-09/pages.jpeg
+  width: 1000
+  height: 400
+  alt: github pages logo
+
 --- 
 
 I just migrated my blog to GitHub Pages. Well, I actually created a new blog using VuePress and migrated that to GitHub Pages. [/r/technicallythetruth](https://www.reddit.com/r/technicallythetruth/). I will talk about why I did that, but before that a little primer on what GitHub Pages is and why I chose it. 
