@@ -153,7 +153,7 @@ const benchmarkProxy = {
       // run the benchmark here
       return async (query) => {
         // get the execution plan
-        const executionPlan = await explainerClient[property](query).explain(
+        const executionPlan = await target[property](query).explain(
           "executionStats"
         );
 
