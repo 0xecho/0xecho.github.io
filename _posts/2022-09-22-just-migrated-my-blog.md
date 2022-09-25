@@ -8,7 +8,6 @@ image:
   width: 1000
   height: 400
   alt: github pages logo
-
 --- 
 
 I just migrated my blog to GitHub Pages. Well, I actually created a new blog using VuePress and migrated that to GitHub Pages. [/r/technicallythetruth](https://www.reddit.com/r/technicallythetruth/). I will talk about why I did that, but before that a little primer on what GitHub Pages is and why I chose it. 
