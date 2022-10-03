@@ -4,7 +4,7 @@ date: 2022-10-03 00:00:00 +0000
 categories: [humor, css]
 tags: [css, centering, div, fun, humor]
 image:
-  path: assets/2022-10/how-not-to-center-a-div.jpg
+  path: assets/2022-10/how-not-to-center-a-div.png
   width: 1000
   height: 400
   alt: a slightly tilted blue div with a yellow background
