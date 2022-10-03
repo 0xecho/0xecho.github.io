@@ -4,7 +4,7 @@ date: 2022-09-22 08:00:00 +0300
 categories: [Blog] 
 tags: [blog, jekyll, github, markdown, github-pages]
 image:
-  path: /assets/2022-09/pages.jpeg
+  path: assets/2022-09/pages.jpeg
   width: 1000
   height: 400
   alt: github pages logo

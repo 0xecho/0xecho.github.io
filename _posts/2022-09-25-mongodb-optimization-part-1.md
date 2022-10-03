@@ -4,7 +4,7 @@ date: 2022-09-25 09:54:00 +0300
 categories: [MongoDB, Optimization]
 tags: [mongo, nosql, optimization, mongodb, mongodb-optimization, series-1]
 image:
-  path: /assets/2022-09/mongo.png
+  path: assets/2022-09/mongo.png
   width: 1000
   height: 400
   alt: MongoDB Logo
