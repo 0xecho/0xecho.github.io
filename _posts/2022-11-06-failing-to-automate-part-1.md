@@ -4,7 +4,7 @@ date: 2022-11-06 12:00:00
 categories: [Automation] 
 tags: [gitlab, automation, bash, git]
 image:
-  path: assets/2022-11/gitlab.png
+  path: assets/gitlab-logo-100.jpg
   width: 1000
   height: 400
   alt: GitLab logo
